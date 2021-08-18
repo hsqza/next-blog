@@ -1,6 +1,6 @@
 //@ts-nocheck
 import PostItem from "./post-item";
-import classes from "posts-grid.module.css";
+import classes from "./posts-grid.module.css";
 
 function PostsGrid(props) {
 	const { posts } = props;
